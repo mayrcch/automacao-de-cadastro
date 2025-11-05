@@ -1,6 +1,6 @@
 ![alt text](https://imgur.com/tDV5VC0.png)
 
-## Automação de cadastro de produtos
+## Sobre a Automação de Cadastro de Produtos
 
 Automatizando cadastros que demandaria tempo de serem feitos manualmente e ajudando a reduzir tempo, por exemplo. Simples, mas eficaz.
 
