@@ -1,0 +1,12 @@
+imagina ter que cadastrar mais de 200 produtos falando seu preço e suas quantidades? seria melhor automatizar essas tarefas.
+
+
+tem que ter instalado: pip install pyautogui pillow mouseinfo.
+
+tem q ter o executavel de login aberto.
+
+
+
+
+
+estudar javascript para ver cypress
