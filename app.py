@@ -1,3 +1,4 @@
+# pip install pyautogui pillow mouseinfo
 import pyautogui # automatiza o movimento do mouse, teclado e digitação
 from time import sleep # para pausar o programa por alguns segundos
 
